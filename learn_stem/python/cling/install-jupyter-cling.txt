@@ -1,0 +1,32 @@
+
+How to install C++ kernel for Jupyter notebook
+
+
+my takeaway: very useful for developing code and test algorithm
+
+
+# read this blog: C++ Kernel for Jupyter Notebook at 
+http://shuvomoy.github.io/blog/programming/2016/08/04/Cpp-kernel-for-Jupyter.html
+
+# downloaded cling and unpack binary to ~/cling
+wget https://root.cern.ch/download/cling/cling_2017-08-12_ubuntu14.tar.bz2
+tar cvjf cling_2017-08-12_ubuntu14.tar.bz2
+
+# add cling bin to PATH
+export PATH=/home/gong/cling/bin:$PATH
+
+cd ~/cling/share/cling/Jupyter/kernel
+
+# using anaconda2
+pip_2 install -e .
+
+# register for kernelspec
+sudo /home/gong/anaconda2/bin/jupyter-kernelspec install cling-cpp11
+
+[InstallKernelSpec] Installed kernelspec cling-cpp11 in /usr/local/share/jupyter/kernels/cling-cpp11
+
+# launch jupyter notebook
+
+jnb_2
+
+work thru an example
