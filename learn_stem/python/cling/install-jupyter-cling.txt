@@ -10,7 +10,7 @@ http://shuvomoy.github.io/blog/programming/2016/08/04/Cpp-kernel-for-Jupyter.htm
 
 # downloaded cling and unpack binary to ~/cling
 wget https://root.cern.ch/download/cling/cling_2017-08-12_ubuntu14.tar.bz2
-tar cvjf cling_2017-08-12_ubuntu14.tar.bz2
+tar -vxjf cling_2017-08-12_ubuntu14.tar.bz2
 
 # add cling bin to PATH
 export PATH=/home/gong/cling/bin:$PATH
