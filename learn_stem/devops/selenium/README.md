@@ -26,15 +26,17 @@ https://www.seleniumhq.org/docs/03_webdriver.jsp#introducing-the-selenium-webdri
 
 
 - easy to use python binding
-add geckodriver.exe to os PATH
-copy to /c/zapme/My_Scripts/geckodriver
 
-add chromedriver.exe
-copy to /c/zapme/My_Scripts/geckodriver
+* add geckodriver.exe to os PATH
+	copy to /c/zapme/My_Scripts/geckodriver
+
+* add chromedriver.exe
+	copy to /c/zapme/My_Scripts/geckodriver
 
 
 https://stackoverflow.com/questions/40208051/selenium-using-python-geckodriver-executable-needs-to-be-in-path
-
+```
 from selenium import webdriver
 driver = webdriver.Firefox()
 driver.get('http://inventwithpython.com')
+```
