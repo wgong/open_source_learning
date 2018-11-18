@@ -1,4 +1,4 @@
-[10 Best Python Projects of 2018](https://youtu.be/G0rQ7AEl5LA)
+[TEN Best Python Projects of 2018](https://youtu.be/G0rQ7AEl5LA)
 
 10. [Python Prettier](https://github.com/prettier/plugin-python) 00:59
 9. [Travelling Salesman Problem](https://github.com/DiegoVicen/som-tsp) 02:10 - Solving the Traveling Salesman Problem using Self Organizing Maps
