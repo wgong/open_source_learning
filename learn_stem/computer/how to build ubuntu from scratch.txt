@@ -1,0 +1,65 @@
+Albert found a research mentor at Duke University around mid July 2017,
+he is Dr Guillermo Sapiro <guillermo.sapiro@gmail.com>, Duke CS professor,
+specialized in CV - image processing.
+His son Anton is a classmate of Annabella at Durham academy.
+Prof Sapiro has a research staff - Qiang Qiu who will supervise Albert closely.
+The first proposed project is to apply openpose for autism study because
+Prof Sapiro had a research paper on autism before.
+
+Openpose is from CMU, it is built on top of Caffe and use GPU.
+we first installed Caffe on an existing Ubuntu desktop 14.04TLS.
+Albert tried some Caffe example notebooks. I tried its web_demo which worked well.
+
+Next I bought a Nvidia graphics card from Amazon. 
+EVGA GeForce GTX 1050Ti + EVGA 400W power supply
+to upgrade the Ubuntu desktop
+
+We downloaded 
+1) cuda 8, cuDnn 
+2)openpose/caffe/opencv source codes and tried to build.
+Caffe uses protobuf and spent sometime to figure out that v5.2 works with Caffe.
+When building Caffe with cuda, the compiling failed.
+I suspect that GPU is imcompatible with current Gigabyte motherboard.
+On Aug 8, 2017, we ordered a new motherboard,CPU,Ram from Amazon, 
+(they has to be Intel chip and processor to be compatible with EVGA GeForce GTX 1050Ti)
+and we plan to reuse an old ATX case, Seagate SATA3 1.5TB HD, plus EVGA graphics card and PSU 
+see the spreadsheet prepared by Albert
+https://docs.google.com/spreadsheets/d/1G5KKP0VTHMH6o6wBbGsVwcEBYSFDJBrXiQQ3dnmjCIg/edit?usp=sharing
+
+The motherboard was received on the same day afternoon (Thursday 8/10).
+CPU and RAM were receied on next day (Friday 8/11).
+
+After my daily work meeting, we start to install CPU, RAM on motherboard.
+Albert prepared a USB bootable stick with Ubuntu 14.04
+https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0
+
+It failed to boot after first power up.
+No BIOS flash screen.
+I re-read motherboard manual and checked wire connections many times.
+DIMM was in the wrong slot
+With 2 DIMMS, they should in slot 2, slot 4 (was in #3/#4)
+but no luck with this change.
+I removed GeForce graphics card in order to use onboard integrated graphics, no luck.
+
+Called EVGA tech support, Kevin suggested a few possibilities
+1) bad DIMM RAM
+2) bad Motherboard
+3) bend-pin when installing CPU
+4) CPU not on its official supported list
+When using only 1 DIMM in slot #2, this time the BIOS flash screen showed up.
+It says CMOS checksum error
+I tried both DIMMs indivudually and obtained the same error when booting.
+This proved that slot#2 is good, both DIMMs are ok.
+
+With Ubuntu 14.04, it still failed to boot, I cannot find the old win 7 bootable disk. Then it occurred to me that I should try Ubuntu 16.04 because it should have 
+newer driver and software support.
+
+I used the old Ubuntu to prepare a bootable DVD for 16.04TLS.
+Boot the new system, it worked!
+
+I asked Albert to go thru the linux installation process.
+Then we install GeForce graphics card.
+Everything works nicely
+
+
+
