@@ -1,0 +1,1022 @@
+ALABAMA
+Auburn Auburn High School
+Lange, Noel, 18
+Development of an Innovative Strategy to Protect the Aquatic Environment from
+Household Plastic Microfibers
+ARIZONA
+Chandler Hamilton High School
+Dani, Samihan, 17
+Enabling Ammonia as a Nitrogen Source for Sustainable Microalgal Cultivation at
+Alkaline pH Levels
+Long, Mindy, 18
+A Smartphone-Based, Point-of-Care Iron Sensor Utilizing Colorimetric Techniques
+Scottsdale BASIS Scottsdale (School)
+Narayan, Saaketh, 18
+Impact of Crystal Orientation and Dopant Concentration on Native Silicon Oxides
+ARKANSAS
+Hot Springs Arkansas School for Mathematics Science & the Arts
+Jia, Mary, 17
+Comprehensive Analysis of the Agronomic and Molecular Genes of Katy Rice and Katy
+Mutagenesis Mutants Through Next-Generation Whole Genome Mapping and Sequencing
+CALIFORNIA
+Atherton Menlo School
+Kim, John, 17
+Speech Emotion Recognition Using Temporal Information and Deep Learning
+Menlo-Atherton High School
+Quinlan, Anna, 17
+A Low Cost, Closed Loop Insulin Pump for the Better Management of Types 1 and 2
+Diabetes Mellitus
+Cupertino Cupertino High School
+Varghese, Leah, 17
+Methamphetamine and HIV-Tat Induce Endothelial Damage Through Oxidative Stress:
+A Novel Cause of Pulmonary Arterial Hypertension
+Homestead High School
+Mishra, Reet, 18
+Analyzing Oxford Nanopore DNA Sequencing Data to Locate Alanine Substitution Mutants
+of a Polyketide Synthase
+Monta Vista High School
+Kamarshi, Vivek, 18
+Cellular Pathways for Increasing Cell Fusion and Decreasing Replication of Varicella
+Zoster Virus
+Dublin Dublin High School
+Pajjuri, Mallika, 17
+Designing a Thermostable, Slow Releasing Oral Vaccine for Mass Immunization via
+Microfluidic-Synthesized Hydrogel Beads
+Fremont Mission San Jose High School
+Ko, Jonathan, 18
+The Impostor Phenomenon and Performance
+Hemet Western Center Academy(School)
+Horton, Krystal, 17
+Using DNA Barcodes to Evaluate Ecosystem Health in SWRCMS Reserve
+Irvine University High School
+Jiang, Lan, 18
+Defining a New Diagnostic Paradigm in Primary Central Nervous System Hypersomnias
+Through Statistical Machine Learning
+Liu, Patrick, 18
+iCORDISX: Smartphone-Based Personalized Cardiac Monitoring Systems Using Statistical
+Analyses and Bluetooth Low Energy
+Zhong, Amy, 17
+Plastics Destroying Your DNA: an Inquiry into the R-Loop Inducing Behaviors of
+Bisphenol A and its Implications
+Zou, Joshua, 17
+Project PLANET-NOONS: The PipeLine for Analyzing New Exoplanet Transits Using Neural
+Networks to Operate and Observe uNiversal Surveys
+Woodbridge High School
+Kopecky, Morgan, 17
+Optimizing Long-term Gene Expression Using Chromatin Insulators in Stably Integrated
+Multi-Gene Constructs
+La Crescenta Crescenta Valley High School
+Co Ting Keh, Lyron, 17
+HICCUP: A Novel Hierarchical Machine Learning Model for Cancer of Unknown Primary
+Classification
+Los Altos Los Altos High School
+Shi, Yongxin, 17
+In Sickness and in Health: Quantitative Analyses of the Structural Changes in Femurs and
+Spinal Vertebrae as a Consequence of Osteoporosis
+Los Angeles Yeshiva University High School of Los Angeles
+Willner, Ari, 17
+Scalable and Reconfigurable Optical Tap-Delay-Line for Multichannel Equalization and
+Correlation of 20-Gbaud QPSK Signals Using Nonlinear Wave Mixing and a Microresonator
+Kerr Frequency Comb
+Mission Viejo Trabuco Hills High School
+Desai, Rishi, 18
+BioFabric Visualization of Network Alignments
+Mountain View St. Francis High School
+Karthik, Ananya, 17
+Ultrasonic Drug Uncaging from Polymeric Perfluoropentane Nanoparticles
+Newport Beach Sage Hill School
+Sheen, Grant, 17
+Wireless Brain Wave Classification for Alzheimer’s Patients via Efficient Neural
+Network Computation
+North Hollywood North Hollywood High School
+Michaels, Tai, 17
+Effects of Short Fire Return Intervals on Plant Diversity, Invasion, and Fire Risk in
+Chaparral Ecosystems
+Palo Alto Palo Alto High School
+Xie, Anthony, 17
+Classifying Sensory Neurons Using Single-Cell RNA Sequencing
+San Diego Canyon Crest Academy
+Huang, Allen, 18
+Targeting eIF4A3 by RNA Interference: A New Strategy for Breast Cancer Therapy
+Roy, Ronak, 17
+Smartphone-Controlled Portable Phoropter Powered by Variable Focal Length Liquid Lens
+Situ, Julia, 18
+Identification and Functional Characterization of Circular RNAs in Drosophila Innate
+Immunity
+Del Norte High School
+Krishnamoorthy, Vinod, 17
+Mathematical Analysis and Experimental Demonstration of a Stationary Optical
+Spectrometer with Improved Resolution
+San Jose The Harker School
+Alag, Ayush, 17
+Computational DNA Methylation Analysis of Food Allergy Yields Novel 13-gene Signature
+to Diagnose Clinical Reactivity
+Jones, Cameron, 17
+Automated Identification of Organic Molecular Structure and Relative Concentrations
+from Infrared Spectral Data Through the Use of Deep Convolutional Neural Networks
+Maniar, Natasha, 17
+MapAF: Deep Learning to Improve Therapy of Complex Human Heart Rhythm
+Abnormalities
+Sayana, Ruhi, 17
+Precision Care for Leukemia: Discovery of Novel Therapeutics for High-Risk ALL via
+Epigenetic and Computational Transcriptome Profiling
+Tian, Katherine, 17
+Interpretable Deep Learning Approaches to Uncover the Sequence Determinants of
+Cell-Type-Specific Transcription Factor Binding
+Wang, Cindy, 17
+Analyzing Gamma-Ray Emissions of High-Energy Blazars to Probe the Extragalactic
+Background Light
+Wang, Richard, 17
+Identify Novel Natural Products with Inhibitory Effects on HOXA9-induced Acute
+Leukemia Through in vitro Functional Assays
+Leland High School
+Lin, Brian, 17
+Geospatial Analysis and Computational Modeling of Concentrated Animal Feeding
+Operation (CAFO) Emissions
+Lin, Jerry, 17
+Navigation Apps Induce Cut-Through Traffic Congestion: An Analysis of Real-Life App
+Routing Suggestions
+Lynbrook High School
+Heh, Shannon, 17
+Sustainable Cooling System for Stadiums Using Indirect Evaporation
+Huang, Charles, 17
+Characterization of NADPH Binding Patterns for the Rational Design of a Photoactivatable
+NADPH Analog
+Singh, Amol, 18
+STAC-STIC: Novel Computational Pipeline to Generate Digital Super-Resolution Static
+Representations of Pathology Slides
+Wang, Stanley, 18
+Connectedness of the Moduli Space of Genus 1 Planar Tropical Curves
+San Mateo The Nueva School
+Cheng, Ben 16
+Augmenting Expression of Gene Editing CRISPR-SaCas9 in Human Liver Cells Through
+Codon Optimization to Boost in vivo Therapeutic Application
+Santa Barbara San Marcos High School
+Campagnari, Bianca, 18
+How Many Micro-Mollusks Are There? A Case Study on Species Richness in Hawai’i
+Yorba Linda Yorba Linda High School
+Song, Andrew, 18
+PEDOT Aptamer-Based Biosensors for Detection of Thrombin
+COLORADO
+Monte Vista Monte Vista High School
+Rawinski, Alyssa, 17
+Mealworms... A Potential Solution to the Global Plastic Problem
+CONNECTICUT
+Greenwich Greenwich Academy
+Laumas, Anisha, 18
+The Role of microRNA-34 in Acute Megakaryoblastic Leukemia
+Greenwich High School
+Hawley, Bennett, 17
+Biomimetic Degradation of Persistent Pollutants Using Common Wax Worm
+I. sakaiensis Bacteria
+Wallingford Choate Rosemary Hall(School)
+Koljaka, Sarah, 17
+Role of Cellular Prion Protein and Laminin Receptor in Meningioma
+Lee, Se Ri, 17
+A Study on the Correlation Between the Structure and Desalination Efficiency of Reverse
+Osmosis Membranes Fabricated by Interfacial Polymerization
+DELAWARE
+Wilmington Charter School of Wilmington
+Krishnamani, Preeti, 17
+Effects of Silicon Amendments on the Concentration and Adsorption Properties of IronOxides in Rice Paddy Soils
+Lu, Grant, 17
+Structure, Magnetic Properties, and Thermal Stability of Chemically Prepared Nickel
+Carbide Nanoparticles
+DISTRICT OF COLUMBIA
+Washington School Without Walls
+Lossef, Sam, 17
+Printenna: A 3D Printed Biquad Yagi Antenna for Transmission of Space Solar Power
+FLORIDA
+Boca Raton Florida Atlantic University High School
+Herbst, Hannah, 18
+Biomimetic Antibacterial Engineered Surface Topography Development to Reduce the
+Spread of Pathogens in Medical Facilities
+Suthakaran, Vithulan, 18
+Developing a Biologically Based Artificial Leaf to Filter and Transform Carbon Dioxide
+Emissions into Oxygen via Photosynthesis
+Miami Dr. Michael M. Krop High School
+Gottlieb, Olivia, 17
+Cohesiveness of the Oscillating B-Z Reaction
+Osprey Pine View School
+Zhu, Kevin, 17
+Increasing Scanning Range of Mems Mirrors for Endoscopic Optical Systems via
+Submersion in High Ri Fluids
+Plantation American Heritage School
+DiStefano, Nicholas, 18
+Improving Wound Healing by Breaking Down Biofilm Formation and Reducing
+Nosocomial Infections
+GEORGIA
+Atlanta Lakeside High School
+Weiss, Zoe, 17
+New Cell Type Detection via a Universal Single-Cell Gene Expression Algorithm
+College Park Woodward Academy
+Hallas, Sydney, 18
+Using Laser Diagnostics to Determine the Behaviors of Reacting Jets Injected
+Perpendicularly into a Vitiated Cross-Flow
+ILLINOIS
+Aurora Illinois Mathematics and Science Academy
+Ren, Jimmy, 17
+DNA Methylation in Autophagy-Associated Genes and Risk of Prostate Cancer
+Naperville Neuqua Valley High School
+Porter, Imani, 17
+The Influence of Bacteria on Alopecia-Afflicted Scalp Environments
+INDIANA
+Carmel Carmel High School
+Jou, Parker, 17
+The Impact of Rotational Damping on the Collective Motion Exhibited by Systems of
+Self-Propelled Particles
+IOWA
+Fairfield	 Maharishi School
+Chhaliyil, Pranav, 18
+An in vivo and in vitro Study on the Effect of Polyphenols in Sugars on the Dental Plaque
+Microbiota Using Next-Gen Sequencing
+KANSAS
+Overland Park Blue Valley Northwest High School
+Wang, William, 17
+Admissibility of the Radon Transform in 2-Element Finite Fields
+KENTUCKY
+Bowling Green The Gatton Academy of Mathematics and Science in Kentucky
+Wheeler, Sydney, 18
+Visio-Haptic Shape Matching: Using Salient Gaussian Features to Identify Object Shape
+Lexington duPont Manual Magnet High School
+Chadha, Anjali 16
+Development of a Fully Automated 3D Printed IoT Sensor for Arsenic Detection in
+Groundwater
+Paul Laurence Dunbar High School
+Seevers, Rachel, 17
+The Virtual Winglet: A Novel Approach to Boundary Layer Manipulation and Wingtip
+Vortex Suppression
+LOUISIANA
+Baton Rouge Baton Rouge Magnet High School
+Zaman, Anu, 18
+SHERLOCKv3: Duplexed Viral Diagnostic Using CRISPR-Cas13 and LASSO
+Covington St. Paul’s School
+Devier, Joshua, 17
+Analysis of the Antimicrobial Efficacy of Usnic Acid and Lichen Extracts
+MAINE
+Bangor Bangor High School
+Robinson, Noah, 18
+Investigating the Relationship Between Polling Building Type and Voting Results:
+A Study in Priming
+Bethel Gould Academy
+Song, Seung Heon 19
+enerView: Real-time Electricity Usage Monitoring System Based on Non-Intrusive Load
+Monitoring and Deep Learning
+MARYLAND
+Baltimore Baltimore Polytechnic Institute (School)
+Mokaya, Michelle, 17
+Detection of Schistosoma mansoni Derived DNA Through the Use of Multiplex PCR from
+Filtered Urine Samples
+Gilman School
+Duh, Alexander, 18
+Effectiveness of Neratinib in Inhibiting or Reversing Hepatic Stellate Cell Activation:
+Implications for Cirrhosis and Liver Cancer
+Great Mills Great Mills High School
+Lindholm, Adam, 18
+Let’s Put Our Heads Together: A Practical Examination of Agonistic Behavior in
+Pachycephalosaurid Ornithopods
+Ijamsville Urbana High School
+Yu, Joshua, 17
+Synthetic Virus-Like Particles: The Future of Targeted Drug Delivery
+Marriottsville Marriotts Ridge High School
+Herath, Isuru, 17
+Towards the Discovery of Antibiotics from Soil Actinomycetes Using a ResistanceDirected Screening Assay
+Poolesville Poolesville High School
+Bian, Vincent, 18
+Special Configurations in Anchored Rectangle Packings
+Chen, Peiqi, 18
+Realization of Thermoelectric Figure of Merit Above 3 in Dense SnSe
+Shastri, Ishana, 17
+Region-Based Fully Convolutional Network for the Localization of Tumors in
+Mammograms
+Potomac Winston Churchill High School
+Brixi, Garyk, 18
+Novel Optimization for Malnutrition Treatment Formulae and Delivery in
+Sub-Saharan Africa
+Ma, Jessie, 17
+Dangerous Bugs are Blowing in the Wind by Hand Dryers in Public Bathrooms
+Rockville Richard Montgomery High School
+Han, Ivy, 18
+A Novel, High-Throughput, Spectrometer-Based Functional Assay for Drosophila
+Nephrocytes
+Shi, Tesia, 17
+A Novel Method to Identify Common Pathways and Genes Through Meta-Analysis of
+Microarray Expression Data of Bipolar Disorder, Schizophrenia, and Major Depressive
+Disorder Reveals Two Common Affected Lmx1a and Cct8p1 Genes and one Common
+Affected TCA Pathway
+Silver Spring Montgomery Blair High School
+Borton, Allison, 18
+Developing a Reconfigurable E-Shaped Microstrip Patch Antenna Array
+Cai, Grace, 17
+An Urgency Dependent Quorum Sensing Algorithm for N-Site Selection in
+Autonomous Swarms
+Cui, Laura, 17
+Near-Threshold Doubly Heavy Tetraquark States
+Durvasula, Naveen, 17
+A Bayesian Optimization Approach to Estimating Expected Match Time and Organ Quality
+in Kidney Exchange 
+Qian, Kevin, 18
+Heisenberg-Scaling Measurement Protocol for Analytic Functions with Quantum
+Sensor Networks
+Qu, Steven, 17
+Maximizing Social Leverage in Linear Threshold Influence Networks
+Schäffer, Daniel, 17
+Evolutionary Origins of Animal ER Calcium Signaling and a Proposed Role for the
+Channelopathy Protein Wolframin
+Zhu, Daniel, 17
+On the Okounkov-Olshanski Formula for the Number of Tableaux of Skew Shapes
+MASSACHUSETTS
+Acton Acton-Boxborough Regional High School
+Bhat, Sanjit, 17
+Towards Efficient Methods for Training Robust Deep Neural Networks
+Kasar, Atharva, 18
+Analyzing the Effect of a Percussive Backbeat on Alpha, Beta, Theta, and Delta
+Binaural Beats
+Andover Phillips Academy
+Chang, Justin, 18
+Rheb, a Ras-like Small GTPase, Interacts with WFS1 Protein (Wolframin): Implications of
+Rheb Signaling Pathways in Wolfram Syndrome 1
+Hou, Kaiying, 18
+The Hardness of Finding Hamiltonian Cycle in Grids Graphs of Semi-Regular Tessellations
+Xu, Guanpeng 16
+NExplore: Visualizing Recurring Structures in Dynamic Networks with Automated Pattern
+Extraction
+Belmont Belmont Hill School
+Daley, Nicholas, 17
+Diploid Chromatin Conformation Capture and Developmental Changes of
+3D Genome Structure
+Boston The Winsor School
+Su, Angela, 17
+Highly-Efficient Capturing and Highly-Sensitive Whole-Slide Counting of Circulating Tumor
+Cells Using an Integrated Capillary Microchannel Device
+Brookline Brookline High School
+Chow, Yuen Ting, 17
+Optimizing the Identification of Translated Unannotated Open Reading Frames
+Xu, Frank, 17
+A Unique Metalloproteinase Complex: ADAM10-MMP14
+Concord Middlesex School
+Dong, Zhengyang, 18
+netDAE: Novel Feature Learning Method of Gene Expression Data Based on a NetworkEnhanced Denoising Autoencoder
+Lexington Lexington High School
+Chen, Robert, 18
+Aleator: Random Beacon via Scalable Threshold Signatures
+Yoo, Seo-Hyun, 18
+Down-Regulation of Multi-Drug Resistance Proteins by microRNAs Enhances
+Chemotherapeutic Efficacy
+Sharon Sharon High School
+Ravikumar, Akshaya, 17
+Investigation of the Genetics of Smoking Behavior in the United Kingdom Biobank
+Sheffield	 Berkshire School
+Lebenthal, Avalon, 18
+Propionibacterium acnes biofilm: The Effect of Peptide 1018 on Bacterial Production
+Tian, Daniel, 18
+Robust Adversarial Perturbation on Deep Proposal-Based Models
+Worcester Massachusetts Academy of Math & Science
+Srivastava, Shashvat, 17
+AnonStake: An Anonymous Proof-of-Stake Cryptocurrency via Zero-Knowledge Proofs
+and Algorand
+MICHIGAN
+Ann Arbor Ann Arbor Pioneer High School
+Suresh, Arundhathy, 17
+Holy Basil Protects Alveolar Epithelial Cells from Fatal Pneumonia
+Beverly Hills Detroit Country Day School
+Yang, Madeleine, 17
+Enabling M2-Incorporated Influenza Virus-Like Particles (VLPs) as a Potential Universal
+Influenza Vaccine
+Bloomfield Hills	 Cranbrook Kingswood School
+Tan, Matthew, 18
+Hardware Integrated LiDAR Simulation for the Development of Collision-Avoidance
+Algorithms
+Port Huron Port Huron Northern High School
+Tumma, Neehal, 17
+Identifying Novel Mechanisms of Quorum Sensing Receptor Protein RpfR: Relevance to
+the BDSF Quorum Sensing Signaling Pathway
+MINNESOTA
+Minnetonka Minnetonka High School
+Krishna, Parthiv, 17
+Development of Autonomous Unmanned Aerial Systems for Semi-Dense Point Cloud
+Generation in Disaster Scenarios
+Rochester Century High School
+Mai, Michelle, 17
+The Development of a High Sensitive Home Diagnosis Kit for Group A Streptococcus
+Bacteria (GAS)
+Stillwater Stillwater Senior High School
+Jostes, Haley, 18
+Using Ceratophyllum Demersum as a Water Filter and Fertilizer in an Organic
+Farming Cycle
+MISSOURI
+Ballwin Parkway West High School
+Tomala, Neil, 17
+Data-Analytics Modeling to Detect Peripheral Neuropathy: Augmenting Big Data with
+Google Trends
+Columbia Rock Bridge High School
+Anand, Kavin, 17
+Self-Reported Depressive Symptoms in Adolescence Increase the Risk for Obesity and
+High BP in Adulthood
+Kansas City Pembroke Hill School
+Case, Paul, 18
+Discovery of Two New Mutational Signatures in Head and Neck Squamous Cell Carcinoma
+Saint Louis Ladue Horton Watkins High School
+Jiang, Kevin, 18
+Deep Learning Long-Range Information with Wave Networks in Variations of
+Undirected Graphs
+Springfield	 Central High School
+Lu, Katie, 17
+Silver Nanoparticles: Reducing Environmental Toxicity Through Shape Control
+NEBRASKA
+Omaha Millard North High School
+Subramaniam, Vighnesh, 18
+Estimating Frequency of Patterns
+NEW HAMPSHIRE
+Durham Oyster River High School
+Kantipudi, Rohit, 17
+Using Neural Networks to Develop a Phenomenological, Constitutive Model for the
+Hyperelastic Behavior of Double Network Hydrogels
+Exeter Phillips Exeter Academy
+Chi, Sun-Yu Gordon, 18
+Exploring the Performance of Deep Convolutional Neural Networks in Tackling
+Chess Variants
+Nashua Nashua High School South
+Sathyamurthi, Tejas, 17
+Comparison of Machine Learning Algorithms to Predict the Occurrence of Forest Fires
+NEW JERSEY
+Chatham Chatham High School
+Andrews, Sophie, 17
+Detection of Melanoma via Deep Learning
+Colonia Colonia High School
+Fantell, Gianna, 18
+Color-Mediated Thermoregulation and Latitudinal Distribution of North American Snakes:
+Biogeographical Considerations
+Shah, Sharmi, 17
+Speech Intelligibility Analysis of Sound-Modulated Laser Signal Countermeasures
+Hackensack Bergen County Academies(School)
+Karam, Julie, 18
+The DEK Proto-Oncogene as a Novel Prognostic and Therapeutic Target for Liver Cancer
+Kudrin, Bertina, 18
+Exploring the Role of Cognitive Function in Secondary Stroke Prevention: Data from the
+Discharge Educational Strategies for Reduction of Vascular Events (DESERVE) Study
+Kumar, Varun, 17
+Dihydrotanshinone: A Pan-Therapeutic Treatment for Chemoresistance in Cancer
+Mao, Maiya, 17
+Vascular-Endothelial Response to IDH1 Mutant Fibrosarcoma Secretome and Metabolite:
+Implications on Cancer Microenvironment
+Shi, Caleb, 17
+Quantitative Analysis of Mechanical Impact on Neurological Health Utilizing Cellular
+Models of Differentiated Neuroblastoma Cells
+Woo, Yena, 18
+Exploring the Therapeutic Potential of Albiflorin in Alzheimer’s Disease
+Holmdel Holmdel High School
+Ahteck, Amanda, 17
+A Novel Low Cost Resistive Soft Crochet Stretch Sensor as Applied to a Wearable
+Bluetooth Keyboard Text Input Device – midiKEY
+Jersey City Dr. Ronald E. McNair Academic High School
+Agrawal, Harshal, 17
+Using Stropharia Mushroom Mycelium (S. rugosoannulata) and Waste Treatment Residual
+for Filtration of Nitrate/Total Dissolved Nitrogen and Phosphate from Agricultural Runoff
+to Prevent Harmful Algae Blooms
+Lawrenceville Lawrenceville School
+Wu, Jacob, 17
+Spray and Stick: A Novel Agent for Pesticide Adhesion
+Livingston Livingston High School
+Chen, Alan, 18
+A Taxonomic Morphometric Analyses Between Extinct Dominican Amber-Fossilized
+Formicidae Derived from the Miocene and Extant Genera of Formicidae Derived from the
+Modern Holocene present on Hispaniola
+Morristown Delbarton School
+Zhong, Kevin, 18
+A Novel Mechanism by Which 4-Nonylphenol Accelerates Alzheimer’s Pathogenesis and
+Induces Both Tau-Amyloid Mediated Toxicity and Neuroinflammation
+West Windsor West Windsor-Plainsboro High School South
+Ferguson, Samuel, 18
+Design Study of a Blended Wing Body Aircraft
+NEW YORK
+Albany The Albany Academies
+Huang, Zachary, 17
+Automated Seizure Detection Tailored Towards Portable Patient Care Using a Novel,
+Computationally Efficient Method of Analysis
+Ardsley Ardsley High School
+Rivera, Alexandra, 17
+A Step in Understanding Glacial Flow: Exploring the Effects of Entrained Insoluble Debris
+on Mechanical Properties of Polycrystalline Ice
+Armonk Byram Hills High School
+Abbruzzese, Samantha, 17
+Examining the Role of Transcription Factors, Nr4a1, Foxp1, and Olig2, in the Development
+of Medium Spiny Neurons from the q175 Mouse Model of Huntington’s Disease
+Chang, Alan, 17
+Utilizing a Novel Machine Learning Pipeline for Single-Cell Transcriptomic
+Characterization of a Remodeled Tumor Microenvironment
+Chernoff, Rachel, 17
+Characterizing the Source of Microglia Proliferation Following Ischemic Preconditioning
+Colella-Albino, Alessandra, 18
+Examining Variability Across Neuropsychological Test Results as an Indicator of PostTreatment Cognitive Change in Cancer Patients Over Time
+Jacobs, Ethan, 17
+Optimizing and Applying Environmental DNA (eDNA) Detection Methods to Analyze the
+Presence of River Otters in the Northeast
+Perlman, Brent, 17
+Human Photosynthesis: Functional Chloroplast Sequestration in Human Mesenchymal
+Stem Cells
+Schwam, Jonah, 18
+Elucidating the Role of Muscle Stem Cell Correction in Regenerating Muscle in
+Duchenne Muscular Dystrophy: The Development of a Novel CRISPR/Cas9-Mediated
+Gene Knock-in System
+Bellmore John F. Kennedy High School
+Levine, Jake, 18
+Fasciclin 2 Expression is Positively Correlated with Gut Function Under Nutrient-Poor
+Conditions in Drosophila melanogaster
+Mashal, Jonathan, 17
+Bay Scallop and Eastern Oyster Survival Within Crepidula fornicata Shell Beds in the
+Peconic Bays, New York
+Sussman, Whitney, 17
+The Role of Clock Genes and Hormones in Small Intestinal Glucose Uptake
+Brentwood Brentwood High School – Sonderling Center
+Perez, Ahmad, 17
+Assessing Marsh Degradation in Two Long Island Salt Marshes and a Method for
+Restoration
+Briarcliff Manor Briarcliff High School
+Daefler, Anna-Samsara, 17
+Mesoderm Formation and Nodal Signaling in Zebrafish Embryos and Blastoderm Explants
+Bronx Bronx High School of Science
+Aharonian, Leon, 18
+A Comfortable Shirt that Uses Machine Learning to Generate Posture Defining Coordinate
+Transforms Based on Electrical Resistance from Stretch Sensors
+Brous, Daniel, 18
+Using a Quantum Equilibrium Ensemble to Uncover the Effects of Cage Flexibility on the
+Diffusion of Hydrogen Gas in Clathrate Hydrates
+Chen, Alex, 17
+Exploring Bipartisanship in Congress Through Bill Content: A Novel Application of
+Political Typology
+Chen, William, 17
+Computational Modeling of Novel Energy Storage Modules Using Iteration-Based
+Quantum Marcus Theory Equations in Applications of Alternative Energy
+Doraid, Joseph, 17
+Rapid and Cost-Effective Paper-Plastic Microchip for Molecular Detection of Hepatitis C
+Virus for Use in Low and Middle Income Countries
+Felmus, Nathan, 17
+Does Group-Level Institutionalization Affect Conflict Behavior? A Study of Trends in
+African Communal Groups
+Frajmund, Chloe, 18
+The Relationship Between State Mandated HIV/AIDS and/or Sex Education in Public
+Schools and HIV Outcomes in the Southern States of the United States
+Kalra, Anika, 17
+The Use of Carbonic Anhydrase Inhibitors to Treat Neurovascular Degeneration
+Khmelnitsky, Olga, 18
+Ionosporus: A New Genus for Boletus longipes (Boletaceae), with a New Species,
+I. australis, from Australia
+Lee, Yea Won, 18
+The Association Between Occupation and Non-Specific Psychological Distress in a
+Nationally-Representative Survey, 2004-2017
+Liu, Annie, 17
+A New Protein Subcellular Localization Framework to Develop Treatment Approaches
+for Protein Dysfunctional Diseases Based on Convolutional Neural Network and Ensemble
+Learning
+Liu, Kevin, 17
+Variations in the Signal Sequence of HIV and its Impact on Phenotype of the Virus
+Zerof, Eli, 18
+Modern Political Sophistication: A Look at the Quality of Discourse During #MeToo
+Chappaqua Horace Greeley High School
+Kumar, Chirag, 17
+A Machine Learning Approach to Estimating the Error in Satellite Sea Surface
+Temperature Measurements
+Singh, Aditi, 17
+Descriptive and Normative Accounts of Color Localization Performance in Visual
+Short-Term Memory
+Zhang, Anna, 17
+Design and Analysis of an Artificial Intelligence Based System for Real-Time Detection of
+Texting and Driving
+Commack Commack High School
+Muthukumar, Pragati, 18
+Phylogenetic Analysis to Provide Insight on Trihelix Gene function in Arabidopsis thaliana
+Cortlandt Manor Walter Panas High School
+Bhandarkar, Riti, 17
+Phylogenetics and Diversification of Pipreola riefferii, an Andean Fruiteater
+Cross River John Jay High School
+Sherr, Heather, 17
+The Correlation of Sodium Palmitate Acetate to Metabolic Memory via Reactive Oxygen
+Species in Hyperglycemic Neonatal Rat Ventricular Myocytes
+Croton-on-Hudson Croton-Harmon High School
+Stok, Melissa, 18
+Printing the Path: Studying a Gelatin-Alginate Composite Hydrogel for Translation of
+3D Bioprinting Research
+Dix Hills Half Hollow Hills High School East
+Bhansali, Rinni, 17
+A Trust Model in Bootstrap Percolation
+Weltmann, Matthew, 17
+Palbociclib Treated MDA-MB-231 Breast Cancer Cells Exhibit Increased Invasive Behavior
+in Zebrafish Xenograft Model
+East Setauket Ward Melville High School
+Ge, Kelsey, 17
+Multidecadal Trends in Tropical Cyclone Behavior within North Atlantic Sub-Basins
+Peña-Lobel, Maya, 17
+Changes in Gene Expression of Ion Regulatory Proteins in Developing Atlantic Silverside
+(Menidia menidia) Subjected to Ocean Acidification Conditions
+Specht, Megan, 18
+Effect of Micronutrient Consumption in Association with p53 status on Colon Cancer
+Progression: A Prospective Study in Racial Health Disparity.
+Wang, Elizabeth, 18
+A Novel Effect of Cannabidiol (CBD) on Microglial Activation in the Presence of
+Epileptic Activity
+Farmingville Sachem High School East
+Zhang, Vincent, 17
+MRI Texture Analysis for Detection of Axillary Lymph Node Metastasis in
+Breast Cancer Patients
+Great Neck John L. Miller Great Neck North High School
+Geula, Aaron, 17
+The Neuroscience of Two: Does Cross Brain Coherence Measured by fNIRS Imply a
+Transfer of Information Between Partners
+Goh, Michelle, 18
+The Neuroscience of Artificial Intelligence: Comparison of Brain Activation During
+Text-Based Chatting with Human and Chatbot Partners
+Lu, Christopher, 17
+Taming a Retrotransposon: Identification of a Domesticated gag Gene in Zebrafish
+Rothbaum, Joshua, 17
+Development of a Linear Tubular Design for Electrostatic Mobility Filters: A Cost-Effective
+Approach to Ion Mobility Spectrometry
+William A. Shine Great Neck South High School
+Wang, Ethan, 17
+Artemisinin and Mefloquine as a Novel Chemotherapeutic Combination Therapy Against
+Colorectal Cancer Through Signaling Network Alleviation and p-glycoprotein Inhibition
+Hewlett George W. Hewlett High School
+Bogdanov, Samuel, 17
+Elucidating the Molecular Mechanism of Clostridium perfringens Epsilon Toxin (ETX)
+Cytotoxicity and the Requirement for the Myelin and Lymphocyte Protein MAL
+Grossman, Julia, 17
+Use of Fluorine as a Proxy to Determine the Effect of Geothermal Fluids on Strain Rate,
+Effective Crustal Viscosity and Landscape Evolution in the Great Basin
+Yue, Siyuan, 17
+A Non-Ricardian Model to Estimate Impact of Public Investment on GDP by Sectors:
+How and for What Should Public Investment be Targeting
+Irvington Irvington High School
+Dunefsky, Jacob, 17
+WellPATH: A Mobile Application to Reduce Suicidal Ideation in Seniors
+Horowitz, Annie, 18
+Elucidating New Species of Distichopathes (Cnidaria: Anthozoa: Hexacorallia: Antipatharia)
+Jericho Jericho Senior High School
+Hu, Jiaxuan, 17
+High Precision Doppler Detections of Nearby Earth-like Planets Assisted by a Double
+Scrambler
+Pahlavan, Arianna, 17
+Discretizing a Hybrid Cardiac Reconstruction: A Novel Simulation of Sustained Fibrillation
+Shah, Dia, 16
+Alternative Dual Cancer Treatment: Optimization of Low Intensity Focused Ultrasound
+(LOFU) and Radiation in Murine Breast and Prostate Cancer Cells
+Shayani, Gabriella, 17
+FTO: Elucidating Roles in Cardiomyocyte Viability, Contractility, and Transcript Regulation
+Shekar, Shruthi, 17
+MALAT1 & SOX: Understanding Progression of Cancer Metastasis Post Application of
+Negative Pressure Wound Therapy on Tumor Resected Wound Beds
+Subramanian, Madhav, 18
+ETM* is Indispensable to Endothelial Behaviour During Tumor Angiogenesis
+Xu, David, 17
+A Digital Interaction Glove: Small-Scale IMU-Based Motion-Tracking and Bimodal
+(Bending/Pressure) Piezoresistive Fabric Sensing
+Zhang, Jiaqi, 18
+A Cross Cultural Study on the Impact of Stress on Thinking Styles of Chinese and
+American High School Students
+Kings Park Kings Park High School
+Cai, Merrick, 17
+The Hilbert Series of the Irreducible Quotient of the Polynomial Representation of the
+Rational Cherednik Algebra of Type A_{n-1} in Characteristic p for p|n-1
+Levittown Island Trees High School
+Wendt, David, 17
+Modeling Negative Thermal Expansion in ScF3
+Lincolndale Somers High School
+Joseph, Rachel, 18
+Optimization of Thermal Hydrolysis for Increased Biogas Generation in Wastewater
+Treatment
+Lynbrook Lynbrook High School
+Condoleo, Juliana, 17
+Investigating the Novel Role of the Activated Cdc-42-Assosciatied Tyrosine Kinase (ACK1)
+in Learning and Memory Using a DAck Null Allele in Drosophila melanogaster
+Hausknecht, Kaylie, 17
+Disentangling Spatial Correlations in Inhomogeneous Materials with Shift-Invariant
+Artificial Neural Networks
+Manhasset Manhasset High School
+Lee, Richard, 17
+Analytical Interpretations of Geophysical Fluid Mechanics in Coaxial Borehole Heat
+Exchangers and Respective Applications
+Tak, Kendrick, 18
+Supplementation of Protein Phosphatases with LiCl and CeO2
+ in Reducing Amyotrophic
+Lateral Sclerosis Related Tauopathy
+New Hyde Park Herricks High School
+Maheshwari, Eish, 16
+Design of a Red Blood Cell-Based Drug-Delivery Platform for Improving Curcumin
+Pharmacokinetics and Bioavailability via Reengineered Silica Nanoparticles
+New York Columbia Grammar & Preparatory School
+Yuan, Bi Tian, 17
+Discovering Ultra-Short-Period Planets Using Deep Learning
+Stuyvesant High School
+Cai, Fiona, 17
+eML: Improving the Efficiency of Clinical Trial Recruitment Using Electronic Health Record
+(EHR) Data and Machine Learning
+Eckert, Lucien, 18
+Synchronizing a Simulated Display of Time with Reality to Affect Experienced Presence
+Within VR
+McGillis, Clare, 17
+A Study of the Factors Impacting Street Tree Growth in New York City
+Northport Northport High School
+Sierra, Katie, 17
+Effects of Multiple Stressors on Survivorship and Growth in Juvenile Mytilus edulis
+Old Westbury The Wheatley School
+Shukla, Manan, 18
+Creating Affordable and Objective Healthcare Solutions Using IoT and Cloud Technology
+Zhu, Brandon, 17
+Efficient Zero-Knowledge Using Garbled Circuits Under the Plain Model
+Ossining Ossining High School
+Montgomery, Emma, 18
+Improved Base Editors and a Novel Sensor Assay Advance Gene Editing Technology
+Sukumar, John, 17
+Elucidating the Factors that Induce Hyperfocus in Adolescents with Attention-Deficit/
+Hyperactivity Disorder (ADHD) Through the Use of a Novel Time-Constrained Stroop Task
+Ocheltree, Elliot, 17
+Designing Aerodynamic Shapes Through the Novel Combination of Computational Fluid
+Dynamics, Pressure Difference Minimization and Erosive Techniques
+Pawling Trinity-Pawling School
+Wang, Ziqing, 18
+Immobilization of Polymer Dots Grafted TiO2
+ Nanohybrids on Gauze for Photodegradation
+of Organic Pollutants
+Pelham Pelham Memorial High School
+Wong, Caitlin, 17
+Assessing the Plasticity of Pain Through the Lens of People with Limb Loss
+Plainview Plainview-Old Bethpage John F. Kennedy High School
+Philip, Stefan, 17
+Forecasting the Progression of Temporal Orientation Through the Language of Social
+Media Using Machine Learning
+Port Washington Paul D. Schreiber High School
+Bercow, Jolie, 18
+The Effect of Herbivory on Neighboring Plant Reproduction in Asclepias syriaca (Common
+Milkweed) Dominated Communities
+Levin, Emma, 18
+Identifying United States Hurricane Risk With Changing Climate
+Taylor, Leah, 17
+The Effect of Celebrity Political Endorsements on Instagram on Activism Among High
+School Students
+Putnam Valley Putnam Valley High School
+Rippon, Dora, 17
+Determining the Minimum Mass of a Habitable Planet by Studying Atmospheric
+Oxygen Escape
+Rochester Brighton High School
+Raynor, Maia, 17
+Oxidation of Copper Zinc Alloy
+Roslyn Heights Roslyn High School
+Ke, Adrian, 17
+The Enticement of Embellishment: The Effect of Graph Embellishment on
+Comprehension, Memorability, and Perceptions of Trustworthiness
+Lee, Brandon, 18
+Evaluation of Albumin-Based Therapeutics: The Safety and Efficacy of Albumin Fusion on
+Half-Life Extension, Tissue-Specific Trafficking, and Toxicity
+Rahman, Mayeesa, 17
+Can You be Just a Little Bit of a Cheater : Perceptions of Academic Dishonesty
+Rust, Lindsey, 18
+Baseball Diamonds Are Not A Girl’s Best Friend: The Effect of Sport, Coach Gender, and
+Participant Gender on Attitudes Towards and Perceived Salaries of Coaches
+Schiavo, Justin, 18
+The Effect of the Aerospike Nozzle on the Hybrid Rocket Engine
+Saint James Smithtown High School East
+D’Amore, Anthony, 17
+Habitat Preference Drives Brain Shape in Crocodylomorphs
+Scarsdale Edgemont High School
+Jang, Angie, 18
+Investigating the Role of Cell Cycle State During Convergent Extension in D. rerio
+Shrub Oak Lakeland Senior High School
+Ramaswamy, Jothi, 17
+A Machine Learning Approach to Classifying Brain Cell Types Based on Functional
+Connectivity in the Primary Visual Cortex
+Smithtown Smithtown High School West
+Rodriguez, Alexander, 17
+A Genomic and Pharmacological Analysis of Adenosine Receptors in the Sea Anemone
+Nematostella vectensis
+Syosset Syosset High School
+Lam, Thomas, 17
+The Number Rotation Puzzle
+Lee, Serena, 17
+The Effect of Hydroxychloroquine on Oral Regeneration in Nematostella vectensis
+Pugach, Spencer, 18
+Twitter and the U.S. Senate: Investigating The Relationship Between the Tweets of
+Senators and Their Internet Popularity
+Wang, Michael, 17
+Investigating the Neuroprotective Effects of Taurine and Synthetic Taurine Derivatives for
+the Treatment of Alzheimer’s Disease
+Upper Nyack Nyack High School
+Jiao, Lucy, 18
+Strain Analysis of Al on a Variety of Semiconductors for Clean SuperconductorSemiconductor Interfaces
+Webster Webster Schroeder High School
+Sharma, Anirudh, 17
+Optimization of Cone-in-Shell Targets for an X-Ray Backlighter on the National
+Ignition Facility
+Yorktown Heights Yorktown High School
+Satpute, Sayli, 17
+A Validation of Sepsis Prediction Scores for Poor Outcome
+Shah, Shrila, 17
+Improving Lung Cancer Treatment Planning and Delivery Using an Artificially Intelligent
+Real-time Quantification of Lung Lobe Structures from CT
+Yang, Diane, 18
+Varying Aspect Ratios of Self-Sustaining Piezoelectric Energy Harvesters
+NORTH CAROLINA
+Durham North Carolina School of Science and Mathematics
+Gong, Albert, 18
+Data Augmentation Using Generative Adversarial Networks: A Novel Machine Learning
+Framework
+Gupta, Abhijit, 18
+Effects of Relativity on Quadrupole Oscillations of Compact Objects
+Jain, Navami, 18
+Development of Integrated Ionic Liquid System for Simultaneous Pretreatment and
+Biomass Saccharification of Fermentable Sugars
+Patil, Aarushi, 17
+Inhibiting a-synuclein Aggregation in Parkinson’s Disease
+Venkatakrishnan, Aarushi, 18
+Hypoglycemic Effect of Momordica charantia against Type 2 Diabetes Modeled in
+Bombyx mori
+Wu, Megan, 18
+Optimization and Determination of Goethite-impregnated Powder Activated Carbon
+(GPAC) Desorption and Regeneration for Bisphenol A (BPA) Adsorption
+OHIO
+Beachwood Beachwood High School
+Shen, Jing-Jing, 17
+Investigation of the Disease Mechanism and Treatment of Diversion Colitis
+(An in vitro Study)
+Gates Mills Hawken School
+Hamilton, Claudia, 17
+Biodegradable Artificial Blood Vessels: A Novel Method of Tissue Engineering
+Shaker Heights Hathaway Brown School
+Cywinska, Greta, 18
+Development of an Apparatus for Accurate, Precise Insertion of Intramuscular Electrodes
+Toledo Maumee Valley Country Day School
+Jayatissa, Nipun, 17
+Engineering and Evaluation of 3D Bioprinted Novel Photocuring Polymer Composite
+Scaffolds for Bone Tissue Regeneration
+OKLAHOMA
+Oklahoma City Oklahoma School of Science & Mathematics
+Wang, William, 17
+Red Photoluminescent Eu3+-Doped Y2O3 Nanospheres and Nanosheets as Photon
+Down-Converters for LED-Phosphor Applications: Synthesis and Characterization
+Tulsa Cascia Hall Preparatory School
+Milford, Braden, 17
+Developing a Novel Heavy Metal Bioremediation System Utilizing Immobilized
+Mixed Algae Partnered with Heavy Metal Resistant Microbial Isolates Collected
+from Contaminated Superfund Mine Sites and Identified with a 16S Ribosomal
+Subunit Analysis
+OREGON
+Portland Oregon Episcopal School
+Gupta, Aneesh, 17
+Multiple Time-Step Predictive Models for Hurricanes in the North Atlantic Basin Based on
+Machine Learning Algorithms
+Sunset High School
+Jin, Kevin, 17
+A Fixed Polarity Approach for Optimization of General Binary Quantum Multiplexers
+Westview High School
+Li, Lauren, 18
+Tracing Cell Lineages from Single-Cell Data Using Markov Affinity Estimation
+Salem South Salem Senior High School
+Joshi, Megha, 17
+Next Generation Intracellular Therapeutic Drug Delivery: A 3-Year Study Using CRISPR/
+Cas9 Gene Identification and Delivery of Inhibiting Plasmids via Novel Exosomal Targeting
+West Linn West Linn High School
+Yu, Jessica, 17
+A Deep Learning Based Drowning Detection Surveillance System
+PENNSYLVANIA
+Allison Park Hampton High School
+Kamel, Kerollos, 18
+The Role of Polyploid Hepatocytes in Response to Acute Liver Injury Induced By
+Acetaminophen Toxicity
+Glen Mills Garnet Valley High School
+Mamidala, Sai, 17
+Electrochemical Oxidation of Formate on a PdNi/C Nanoparticle Catalyst for Renewable
+Energy Conversion and Storage
+Rosemont Harriton High School
+Weissman, Samuel, 17
+Massive Longitudinal HIV Sequencing in Two Subjects on Antiretroviral Therapy Reveals
+Opposing Selection Pressures on the Treatment Resistant Reservoir and Suggests New
+Drug Targets
+West Doylestown Central Bucks High School
+Anderson, Walker, 18
+NP-Completeness of the Five Cells Pencil Puzzle
+SOUTH CAROLINA
+Columbia Dreher High School
+Androulakis, Anthony 17
+Identifying the Neuroanatomical Correlates of Melodic Repetition Using a Novel
+Computerized Assessment in Stroke Patients
+Spring Valley High School
+Trifonova, Kristina, 17
+The Effect of Hyperaccumulator Biochar Application on Soil Properties and Plant Growth
+of Vigna radiata
+TENNESSEE
+Brentwood Ravenwood High School
+Liu, Gabrielle, 17
+Weight Friction: A Simple Method to Overcome Catastrophic Forgetting and Enable
+Transfer Learning in Neural Networks
+Nashville Hume Fogg Academic High School
+Halbert, Ella, 18
+Temperature and Infection Modulate Mosquito Cellular Immunity in an
+Age-Dependent Manner
+Martin Luther King Jr. Magnet High School
+An, Julia, 17
+Identification and Characterization of Helicobacter pylori Genes Regulating
+DNA Translocation and TLR9 Activation by the Cancer-Associated cag Type IV
+Secretion System
+Lee, Samuel, 18
+Investigating Upregulated Genes Contributing to the Survival of H. pylori Under
+Host-Induced Oxidative Stress
+TEXAS
+Austin Liberal Arts and Science Academy
+Chieng, Sarah, 17
+13C NMR Spectroscopy of 13C3 Sodium Pyruvate and 13C1 Alanine in Glioblastoma Cells
+Coppell Coppell Senior High School
+Liang, Stephen, 17
+Optimization for Deep Convolutional Neural Networks: How Slim Can It Go?
+Denton Texas Academy of Mathematics and Science
+Patel, Mira, 17
+Effects of a High Glucose Diet on the Unfolded Protein Response of Caenorhabditis elegans
+Patnaik, Ritik, 17
+The Design, Development and Evaluation of a High Security Bimodal Biometric System
+Using Peripheral Vein Patterns and Fingerprints
+Shridharan, Rishi, 18
+A Novel Oligodendrocyte Maturation Model with Implications in Demyelinating Disorders
+Grand Prairie Peninsula Academy
+Wilhoit, Kayla, 18
+Cytonuclear Incompatibility and Phosphine Resistance in the Red Flour Beetle,
+Tribolium castaneum
+Lubbock Lubbock High School
+Zhang, Phyllis, 18
+Co-Overexpression of AVP1 and PP2A-C5 Increases Plant Tolerance to Multiple Stresses
+Plano Plano West Senior High School
+Huang, Vincent, 18
+Modeling Refugee Migration: Mathematical and Algorithmic Models of Refugee Crises
+Jha, Harshika, 17
+Remediating the Issue of Dead Zones Through the Utilization of Vargula hilgendorfii
+Bioluminescence in Sync with Underwater Photovoltaic Cells to Induce Visible-Light
+Water Electrolysis
+Suri, Paritosh, 18
+Electroencephalogram (EEG) Sensor and Subsequent Analysis System Optimization for
+Point-of-Care Concussion Diagnostic Tool
+Zhang, Eric, 17
+Characterizing Inflatable and Quasirandom Permutations
+The Woodlands The Woodlands College Park High School
+Dasari, Shobha, 18
+Minimizing Arterial Damage Induced by Coronary Stenting
+UTAH
+Midvale Hillcrest High School
+Cheng, Alexander, 18
+Using Machine Learning and Image Segmentation to Analyze Retinal Blood Vessel Growth
+in Retinal Flat Mount Images
+VIRGINIA
+Alexandria T. C. Williams High School
+Humphrey, Ana, 18
+Finding Exoplanets by Assessing the Dynamical Packing of Kepler Multi-Candidate
+Systems
+Naughton-Rockwell, Tessa, 18
+The Correlation of Potential Pesticide Exposure Risk Estimated Through Surrounding
+Agriculture and Apis mellifera Internal Hive Temperature
+Thomas Jefferson High School for Science and Technology
+Allamsetty, Abhishek, 18
+qecML: A Novel Machine Learning Toric Decoder for Rapid Quantum Error Correction
+Ardeishar, Adam, 17
+Extreme Values of a Statistical Distribution Relating to the Coupon Collector Problem
+Naidich, Rachel, 18
+Non-Invasive Electronic Wireless Knee Biomechanical and Physiology Monitoring for
+Post-Operative Rehabilitation
+Qi, Grace, 17
+Evaluating Hydroxycocaines in Hair Samples as Markers of Cocaine Use
+Wu, Lauryn, 18
+Novel Families of Giant Band Gap 2D Topological Insulator Devices in Ethynyl-Derivative
+Functionalized Lead and Bismuth Films
+Wu, Wenbo, 17
+Discovery of Topological Insulators with Spintronics Properties in the 2D Materials BiSb,
+BiSbF2, and BiSbI2
+Charlottesville Albemarle High School
+Mandal, Mriganka, 17
+Novel Egg-Specific Target Immunotherapy Induces Mortality in Lung Carcinoma
+McLean Langley High School
+Chen, Alex, 17
+Boron-Doped Silicene as a Promising Anode for Li-Ion Batteries
+Potomac School
+Beaumont, Carolyn, 17
+New Analysis Reevaluates the Effect of Water on Silicate Melt Structures by Comparing
+FTIR and NMR Spectra of Water Interactions with Melts of Albite Under Conditions
+Mimicking the Upper Mantle
+Vienna Oakton High School
+Qu, Carolyn, 17
+Monitoring and Predicting Agriculture Drought and Food Security over the Horn of Africa
+(HOA) with NASA Satellite Remote Sensing Measurements
+WASHINGTON
+Bellevue Interlake High School
+Saxena, Eshika, 17
+HemaCam: A Computer Vision-Enhanced Mobile Phone Imaging System for Automated
+Screening of Hematological Diseases with Convolutional Neural Networks
+WEST VIRGINIA
+Charleston George Washington High School
+Morris, Rachel, 18
+The Effects of Salinity and pH on Quorum Sensing Systems in Vibrio fischeri
+WISCONSIN
+Milwaukee University School of Milwaukee
+Karan, Aayush, 17
+Generating Set for Nonzero Determinant Links Under a Skein Relation
+CANADA
+Lethbridge Alberta Catholic Central High School
+Schultz, Marin, 18
+Development of a Prosthetic AutoGrasp Control System and Advanced HumanProsthetic Interface
+CHINA
+Hefei Anhui Hefei No. 1 High School
+Bi, Dasheng, 16
+A Human-Machine Coupled System for Efficient Sleep Spindle Detection by Iterative Revision
