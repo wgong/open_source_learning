@@ -5,10 +5,10 @@
 
     // change selection color
     "workbench.colorCustomizations": {
-        "editor.lineHighlightBackground": "#5a6d69",
-        "editor.wordHighlightBackground": "#b257be",
-        "editorCursor.foreground": "#c4c484",        
-        "editor.selectionBackground": "#1c2ae7d5", // red color hexadecimal code
-        "editor.selectionHighlightBackground": "#fa2ddf" // white hex code
+        "editor.lineHighlightBackground": "#0c0431",
+        "editor.wordHighlightBackground": "#c22bd6",
+        "editorCursor.foreground": "#5f5f17",        
+        "editor.selectionBackground": "#3843dbd5", // red color hexadecimal code
+        "editor.selectionHighlightBackground": "#6b2b63" // white hex code
     },    
 }
