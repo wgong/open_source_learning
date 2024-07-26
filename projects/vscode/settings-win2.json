@@ -1,0 +1,33 @@
+{
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "quarto.mathjax.theme": "dark",
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "workbench.colorCustomizations": {
+        //editor
+        "editor.lineHighlightBackground": "#0c0431",
+        "editor.wordHighlightBackground": "#c22bd6",
+        "editorCursor.foreground": "#5f5f17",        
+        "editor.selectionBackground": "#3843dbd5", // red color hexadecimal code
+        "editor.selectionHighlightBackground": "#6b2b63", // white hex code
+
+        //scrollbar
+        "scrollbar.shadow": "#bf26da",
+        "scrollbarSlider.activeBackground": "#b93a1a",
+        "scrollbarSlider.background": "#e4eb84",
+        "scrollbarSlider.hoverBackground": "#17a6b3",       
+    },
+    "terminal.integrated.shell.windows": "C:\\windows\\System32\\cmd.exe",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "notebook.output.textLineLimit": 1000,
+    "jupyter.askForKernelRestart": false,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    
+}
